@@ -1,0 +1,21 @@
+cd
+cd Desktop
+cd git (created folder name)
+
+git config --global user.email "email"
+git config --global user.name "Name"
+
+git clone (url from ReadMe code)
+
+cd repository_name/
+
+ls (for checking elements in the repository)
+
+git status (for checking the status where file is committed or not)
+
+git add file.txt (add the created file to repository)
+
+git commit -m 'message' (commit the file to git, give any message for further checking)
+
+git push ( to 
+update the file in git repo)
